@@ -66,11 +66,13 @@ To nurture the next generation of tech enthusiasts by providing engaging, game-l
 
 | Member | Role | GitHub |
 |--------|------|--------|
+
+| Prasiddha T | Project Manager |[@Prasid](https://github.com/LoserCast) |
 | Chandan Shakya | Project Lead & Backend Developer | [@ChandanShakya](https://github.com/ChandanShakya) |
 | Arun Bhandari | Backend Developer | [@bhandariarun](https://github.com/bhandariarun) |
 | Bibek | Backend Developer | [@Bibek99](https://github.com/Bibek99) |
-| Rajesh Sir | Cybersecurity & Testing Lead | - |
-| Popsicle Dai | UI/UX Design & Branding | - |
+| Phantom | Backend, SQL & UI/UX | - |
+| Popsicle | UI/UX Design & Branding | - |
 
 ## Repositories
 
